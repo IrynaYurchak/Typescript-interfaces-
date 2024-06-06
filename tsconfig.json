@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "removeComments": true,
+        "outFile": "main.js",
+        "moduleResolution": "node"
+    },
+    "include": ["./**/*"],
+    "compileOnSave": true,
+    "watch": true
+}
